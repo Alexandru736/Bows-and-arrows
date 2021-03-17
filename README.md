@@ -1,6 +1,6 @@
-# Bows-and-arrows
+# Bow-and-arrows
 
-Classic game **Bows and arrows** implemented in C++ using the OpenGL Framework.
+Classic game **Bow and arrows** implemented in C++ using the OpenGL Framework.
 
 Gameplay:
 
