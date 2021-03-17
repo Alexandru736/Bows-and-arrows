@@ -4,5 +4,5 @@ Classic game **Bows and arrows** implemented in C++ using the OpenGL Framework.
 
 Gameplay:
 
-<img src="screenshots/bow_and_arrows.png" width="300">
+<img src="screenshots/bow_and_arrows.png" width="100">
 
